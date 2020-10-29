@@ -7,7 +7,7 @@ setup(
     author_email="evan@evanw.org",
     description="print mavlink messages to console",
     long_description=open('README.md').read(),
-    long_description_content_type='text/x-md',
+    long_description_content_type='text/markdown',
     license="GPLv3",
     keywords="mavlink debug ardupilot",
     url="https://github.com/evidlo/mavprint",
